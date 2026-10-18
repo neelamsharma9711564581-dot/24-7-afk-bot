@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PLAYSUKUNASMP.aternos.me",
+    "ip": "PLAYSUKUNASMP.aternos.me:32303",
     "port": 32303,
     "version": "1.20.1",
     "try-creative": false
